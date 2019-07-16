@@ -1,0 +1,17 @@
+E:\Visual Studion\HpNotepad\HpModel\bin\x86\Debug\HpModel.dll
+E:\Visual Studion\HpNotepad\HpModel\bin\x86\Debug\HpModel.pdb
+E:\Visual Studion\HpNotepad\Bin\HpModel.dll
+E:\Visual Studion\HpNotepad\Bin\HpModel.pdb
+E:\Visual Studion\HpNotepad\HpModel\obj\x86\Debug\HpModel.csprojResolveAssemblyReference.cache
+E:\Visual Studion\HpNotepad\HpModel\obj\x86\Debug\HpModel.dll
+E:\Visual Studion\HpNotepad\HpModel\obj\x86\Debug\HpModel.pdb
+E:\Study\HpNotepad\Bin\HpModel.dll
+E:\Study\HpNotepad\Bin\HpModel.pdb
+E:\Study\HpNotepad\HpModel\obj\x86\Debug\HpModel.dll
+E:\Study\HpNotepad\HpModel\obj\x86\Debug\HpModel.pdb
+E:\Study\HpNotepad\HpModel\obj\x86\Debug\HpModel.csprojResolveAssemblyReference.cache
+E:\Study Program\HpNotepad\Bin\HpModel.dll
+E:\Study Program\HpNotepad\Bin\HpModel.pdb
+E:\Study Program\HpNotepad\HpModel\obj\x86\Debug\HpModel.dll
+E:\Study Program\HpNotepad\HpModel\obj\x86\Debug\HpModel.pdb
+E:\Study Program\HpNotepad\HpModel\obj\x86\Debug\HpModel.csprojResolveAssemblyReference.cache

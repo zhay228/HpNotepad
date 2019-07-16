@@ -1,0 +1,9 @@
+E:\Study Program\HpNotepad\HpDAL\bin\Release\HpDAL.dll
+E:\Study Program\HpNotepad\HpDAL\bin\Release\HpDAL.pdb
+E:\Study Program\HpNotepad\HpDAL\bin\Release\DBFactory.dll
+E:\Study Program\HpNotepad\HpDAL\bin\Release\HpModel.dll
+E:\Study Program\HpNotepad\HpDAL\bin\Release\System.Data.SQLite.dll
+E:\Study Program\HpNotepad\HpDAL\bin\Release\HpModel.pdb
+E:\Study Program\HpNotepad\HpDAL\obj\Release\HpDAL.csprojResolveAssemblyReference.cache
+E:\Study Program\HpNotepad\HpDAL\obj\Release\HpDAL.dll
+E:\Study Program\HpNotepad\HpDAL\obj\Release\HpDAL.pdb

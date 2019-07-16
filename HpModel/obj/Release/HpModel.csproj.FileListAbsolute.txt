@@ -1,0 +1,4 @@
+E:\Study Program\HpNotepad\HpModel\bin\Release\HpModel.dll
+E:\Study Program\HpNotepad\HpModel\bin\Release\HpModel.pdb
+E:\Study Program\HpNotepad\HpModel\obj\Release\HpModel.dll
+E:\Study Program\HpNotepad\HpModel\obj\Release\HpModel.pdb

@@ -1,0 +1,36 @@
+2017/12/26 18:51:05
+
+对象信息：HpDAL
+错误信息：System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.31.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+文件名:“System.Data.SQLite, Version=1.0.31.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”
+   在 HpDAL.DType.GetAllType()
+   在 HpNotepad.FrmMain.InitalData() 位置 E:\Study Program\HpNotepad\HpNotepad\FrmMain.cs:行号 61
+   在 HpNotepad.FrmMain.FrmMain_Load(Object sender, EventArgs e) 位置 E:\Study Program\HpNotepad\HpNotepad\FrmMain.cs:行号 26
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 CCWin.CCSkinMain.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 CCWin.CCSkinMain.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 CCWin.CCSkinMain.WndProc(Message& m)
+   在 HpNotepad.FrmMain.WndProc(Message& m) 位置 E:\Study Program\HpNotepad\HpNotepad\FrmMain.cs:行号 359
+
+=== 预绑定状态信息 ===
+日志: DisplayName = System.Data.SQLite, Version=1.0.31.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139
+ (Fully-specified)
+日志: Appbase = file:///E:/Study Program/HpNotepad/HpNotepad/bin/Debug/
+日志: 初始 PrivatePath = NULL
+调用程序集: HpDAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+日志: 此绑定从 default 加载上下文开始。
+日志: 正在使用应用程序配置文件: E:\Study Program\HpNotepad\HpNotepad\bin\Debug\HpNotepad.vshost.exe.Config
+日志: 使用主机配置文件: 
+日志: 使用 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config 的计算机配置文件。
+日志: 策略后引用: System.Data.SQLite, Version=1.0.31.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139
+日志: 尝试下载新的 URL file:///E:/Study Program/HpNotepad/HpNotepad/bin/Debug/System.Data.SQLite.DLL。
+错误: 未能完成程序集的安装(hr = 0x8007000b)。探测终止。
+
+

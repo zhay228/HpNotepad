@@ -1,0 +1,8 @@
+E:\Visual Studion\HpNotepad\HpModel\bin\Debug\HpModel.dll
+E:\Visual Studion\HpNotepad\HpModel\bin\Debug\HpModel.pdb
+E:\Visual Studion\HpNotepad\HpModel\obj\Debug\HpModel.dll
+E:\Visual Studion\HpNotepad\HpModel\obj\Debug\HpModel.pdb
+E:\Study Program\HpNotepad\HpModel\bin\Debug\HpModel.dll
+E:\Study Program\HpNotepad\HpModel\bin\Debug\HpModel.pdb
+E:\Study Program\HpNotepad\HpModel\obj\Debug\HpModel.dll
+E:\Study Program\HpNotepad\HpModel\obj\Debug\HpModel.pdb

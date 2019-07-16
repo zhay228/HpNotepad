@@ -1,0 +1,14 @@
+E:\Study Program\HpNotepad\HpNotepad\bin\x86\Release\HpNotepad.exe.config
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.csproj.ResolveComReference.cache
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.FrmFileSave.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.FrmInfoQuery.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.FrmMain.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.FrmFileQuery.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.FrmInfoSave.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.FrmInfoDetail.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.FrmTxtAarry.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.FrmUpdate.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.Properties.Resources.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.XpCopy.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Release\HpNotepad.csproj.GenerateResource.Cache

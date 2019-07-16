@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HpNotepad", "HpNotepad\HpNotepad.csproj", "{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HpDAL", "HpDAL\HpDAL.csproj", "{FEB3FAD6-A040-44A6-BD2B-6C0CDA25DE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HpModel", "HpModel\HpModel.csproj", "{55D62BA7-EF05-45AF-9782-8B911D37E55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}.Debug|x86.ActiveCfg = Debug|x86
+		{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}.Debug|x86.Build.0 = Debug|x86
+		{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}.Release|x86.ActiveCfg = Release|x86
+		{CF2A3D0B-60B0-43C1-A6B8-DAEA4E898263}.Release|x86.Build.0 = Release|x86
+		{FEB3FAD6-A040-44A6-BD2B-6C0CDA25DE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB3FAD6-A040-44A6-BD2B-6C0CDA25DE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB3FAD6-A040-44A6-BD2B-6C0CDA25DE78}.Debug|x86.ActiveCfg = Debug|x86
+		{FEB3FAD6-A040-44A6-BD2B-6C0CDA25DE78}.Debug|x86.Build.0 = Debug|x86
+		{FEB3FAD6-A040-44A6-BD2B-6C0CDA25DE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB3FAD6-A040-44A6-BD2B-6C0CDA25DE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB3FAD6-A040-44A6-BD2B-6C0CDA25DE78}.Release|x86.ActiveCfg = Release|Any CPU
+		{55D62BA7-EF05-45AF-9782-8B911D37E55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D62BA7-EF05-45AF-9782-8B911D37E55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D62BA7-EF05-45AF-9782-8B911D37E55F}.Debug|x86.ActiveCfg = Debug|x86
+		{55D62BA7-EF05-45AF-9782-8B911D37E55F}.Debug|x86.Build.0 = Debug|x86
+		{55D62BA7-EF05-45AF-9782-8B911D37E55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D62BA7-EF05-45AF-9782-8B911D37E55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D62BA7-EF05-45AF-9782-8B911D37E55F}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

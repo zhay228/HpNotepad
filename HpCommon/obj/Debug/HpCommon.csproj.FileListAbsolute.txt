@@ -1,0 +1,4 @@
+E:\Visual Studion\HpNotepad\HpCommon\bin\Debug\HpCommon.dll
+E:\Visual Studion\HpNotepad\HpCommon\bin\Debug\HpCommon.pdb
+E:\Visual Studion\HpNotepad\HpCommon\obj\Debug\HpCommon.dll
+E:\Visual Studion\HpNotepad\HpCommon\obj\Debug\HpCommon.pdb

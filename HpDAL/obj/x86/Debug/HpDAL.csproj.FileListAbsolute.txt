@@ -1,0 +1,21 @@
+E:\Visual Studion\HpNotepad\HpDAL\bin\x86\Debug\HpDAL.dll
+E:\Visual Studion\HpNotepad\HpDAL\bin\x86\Debug\HpDAL.pdb
+E:\Visual Studion\HpNotepad\HpDAL\bin\x86\Debug\DBFactory.dll
+E:\Visual Studion\HpNotepad\HpDAL\bin\x86\Debug\HpModel.dll
+E:\Visual Studion\HpNotepad\HpDAL\bin\x86\Debug\System.Data.SQLite.dll
+E:\Visual Studion\HpNotepad\HpDAL\bin\x86\Debug\HpModel.pdb
+E:\Visual Studion\HpNotepad\Bin\HpDAL.dll
+E:\Visual Studion\HpNotepad\Bin\HpDAL.pdb
+E:\Visual Studion\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.csprojResolveAssemblyReference.cache
+E:\Visual Studion\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.dll
+E:\Visual Studion\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.pdb
+E:\Study\HpNotepad\Bin\HpDAL.dll
+E:\Study\HpNotepad\Bin\HpDAL.pdb
+E:\Study\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.csprojResolveAssemblyReference.cache
+E:\Study\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.dll
+E:\Study\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.pdb
+E:\Study Program\HpNotepad\Bin\HpDAL.dll
+E:\Study Program\HpNotepad\Bin\HpDAL.pdb
+E:\Study Program\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.csprojResolveAssemblyReference.cache
+E:\Study Program\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.dll
+E:\Study Program\HpNotepad\HpDAL\obj\x86\Debug\HpDAL.pdb

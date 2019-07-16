@@ -1,0 +1,63 @@
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\HpNotepad.exe.config
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\HpNotepad.exe
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\HpNotepad.pdb
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\DBFactory.dll
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\HpDAL.dll
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\HpModel.dll
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\XpSystem.dll
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\System.Data.SQLite.dll
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\HpDAL.pdb
+E:\Visual Studion\HpNotepad\HpNotepad\bin\x86\Debug\HpModel.pdb
+E:\Visual Studion\HpNotepad\Bin\HpNotepad.exe.config
+E:\Visual Studion\HpNotepad\Bin\HpNotepad.exe
+E:\Visual Studion\HpNotepad\Bin\HpNotepad.pdb
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.csprojResolveAssemblyReference.cache
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmFileSave.resources
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoQuery.resources
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmMain.resources
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmFileQuery.resources
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoSave.resources
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoDetail.resources
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.Properties.Resources.resources
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.XpCopy.resources
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.csproj.GenerateResource.Cache
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.exe
+E:\Visual Studion\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.pdb
+E:\Study\HpNotepad\Bin\HpNotepad.exe.config
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.exe
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.pdb
+E:\Study\HpNotepad\Bin\HpNotepad.exe
+E:\Study\HpNotepad\Bin\HpNotepad.pdb
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.csprojResolveAssemblyReference.cache
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmFileSave.resources
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoQuery.resources
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmMain.resources
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmFileQuery.resources
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoSave.resources
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoDetail.resources
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.Properties.Resources.resources
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.XpCopy.resources
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.csproj.GenerateResource.Cache
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.csproj.ResolveComReference.cache
+E:\Study\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmTxtAarry.resources
+E:\Study Program\HpNotepad\Bin\HpNotepad.exe.config
+E:\Study Program\HpNotepad\Bin\HpNotepad.exe
+E:\Study Program\HpNotepad\Bin\HpNotepad.pdb
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.csprojResolveAssemblyReference.cache
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.csproj.ResolveComReference.cache
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmFileSave.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoQuery.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmMain.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmFileQuery.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoSave.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmInfoDetail.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmTxtAarry.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmUpdate.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.Properties.Resources.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.XpCopy.resources
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.csproj.GenerateResource.Cache
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.exe
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.pdb
+E:\Study Program\HpNotepad\HpNotepad\obj\x86\Debug\HpNotepad.FrmSelectUpdate.resources
